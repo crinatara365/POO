@@ -1,0 +1,10 @@
+Tararache Crina-Andreea, 324CB
+Programare orientata pe obiecte
+
+Proiectul implementeaza o aplicatie in care antrenorii isi pot crea pokemonii si se pot duela cu alti antrenori. Acesta este implementat conform principiilor OOP,
+utilizand notiuni precum Design Patterns si Multithreading.
+Design Patterns:
+1. Factory -> pentru crearea pokemonilor
+2. Singleton -> pentru a stabili castigatorul
+3. Command -> pentru a stabili tipul de atac ce va fi executat de pokemon
+4. Observator -> pentru a tine evidenta rundei curente
